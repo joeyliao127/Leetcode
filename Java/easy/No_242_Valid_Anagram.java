@@ -1,4 +1,4 @@
-// 242. Valid Anagram
+package easy;
 import java.util.HashMap;
 import java.util.Map;
 
